@@ -81,3 +81,5 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaduGomesDev)
 
 </div>
+
+<!-- pull shark achievement 1 -->
