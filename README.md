@@ -30,6 +30,8 @@ My primary focus is on backend development with **Node.js**, **TypeScript**, dat
 
 Beyond core backend logic, I explore modern software engineering practices, cloud services, and AI-assisted tools to streamline development and deliver impact.
 
+<!-- pull shark 09 -->
+
 ---
 
 ### 🛠️ Tech Stack & Tools
