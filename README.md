@@ -2,9 +2,9 @@
 
 # Cadu Gomes
 
-**Software Engineer • Backend & Systems**
+**Software Engineer • Backend, APIs & Interfaces**
 
-Building scalable backend applications, APIs, and microservices with Node.js and TypeScript.
+Building scalable APIs, services, and data-driven applications with Node.js and TypeScript — and the interfaces that consume them with React.
 
 ---
 
@@ -15,6 +15,7 @@ Building scalable backend applications, APIs, and microservices with Node.js and
 * ⚡ Designing and implementing RESTful APIs and backend architectures
 * 🗄️ Working with relational and NoSQL databases, data modeling, and query optimization
 * 🔐 Implementing authentication, authorization, and secure data access
+* 🎨 Building frontend interfaces with React and TypeScript on top of those APIs
 * 🛠️ Applying clean code practices, software architecture patterns, and structured logic
 * 🔀 Managing production-ready code bases and workflows with Git and GitHub
 * 🤖 Working with AI-assisted tools and integrations to boost development productivity
@@ -23,9 +24,9 @@ Building scalable backend applications, APIs, and microservices with Node.js and
 
 ### 👨‍💻 About Me
 
-I'm a Backend Software Engineer passionate about building robust, efficient, and maintainable server-side applications.
+I'm a Software Engineer focused on the backend — building robust, efficient, and maintainable server-side applications — and comfortable carrying a feature all the way to the interface.
 
-My primary focus is on backend development with **Node.js**, **TypeScript**, database management (**MongoDB**, **PostgreSQL**), and API integration. I enjoy solving complex logic problems, structuring clean databases, and ensuring application performance.
+My primary focus is on backend development with **Node.js**, **TypeScript**, database management (**MongoDB**, **PostgreSQL**), and API integration. I enjoy solving complex logic problems, structuring clean databases, and ensuring application performance. On the frontend, I work with **React**, **TypeScript**, and **Tailwind CSS** to build the interfaces that consume the APIs I design.
 
 Beyond core backend logic, I explore modern software engineering practices, cloud services, and AI-assisted tools to streamline development and deliver impact.
 
@@ -43,6 +44,20 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 * TypeScript
 * RESTful APIs
 * Clean Architecture & Patterns
+
+**🎨 Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend Stack" />
+</p>
+
+* React
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Vite
 
 **🗄️ Banco de Dados**
 
