@@ -86,6 +86,8 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 * NPM
 * Shell
 
+<!-- pull shark 14 -->
+
 ---
 
 ### 🤝 Connect
