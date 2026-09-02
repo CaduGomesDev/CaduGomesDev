@@ -59,6 +59,8 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 * Tailwind CSS
 * Vite
 
+<!-- pull shark 12 -->
+
 **🗄️ Banco de Dados**
 
 <p align="left">
