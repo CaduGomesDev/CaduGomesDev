@@ -10,6 +10,8 @@ Building scalable APIs, services, and data-driven applications with Node.js and 
 
 </div>
 
+<!-- pull shark 07 -->
+
 ### 🚀 Highlights
 
 * ⚡ Designing and implementing RESTful APIs and backend architectures
