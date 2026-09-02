@@ -40,6 +40,8 @@ Beyond core backend logic, I explore modern software engineering practices, clou
   <img src="https://skillicons.dev/icons?i=nodejs,ts,express,js" alt="Backend Stack" />
 </p>
 
+<!-- pull shark 10 -->
+
 * Node.js
 * TypeScript
 * RESTful APIs
