@@ -71,6 +71,8 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 * Modelagem de dados
 * Consultas e manipulação de dados
 
+<!-- pull shark 13 -->
+
 **🐳 Infraestrutura & Ferramentas**
 
 <p align="left">
