@@ -51,6 +51,8 @@ Beyond core backend logic, I explore modern software engineering practices, clou
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" alt="Frontend Stack" />
 </p>
 
+<!-- pull shark 11 -->
+
 * React
 * TypeScript
 * JavaScript
