@@ -74,13 +74,12 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 #### Infrastructure & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" alt="Tools Stack" />
-  <img src="https://cdn.simpleicons.org/hostinger/673DE6" height="48" width="48" alt="Hostinger" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,aws" alt="Tools Stack" />
 </p>
 
 * Docker
 * Linux / Ubuntu Server
-* Hostinger
+* AWS
 
 ---
 
