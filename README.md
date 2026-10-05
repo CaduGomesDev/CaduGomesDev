@@ -74,10 +74,11 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 #### Infrastructure & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" alt="Tools Stack" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu" alt="Tools Stack" />
 </p>
 
 * Docker
+* Kubernetes
 * Linux / Ubuntu Server
 
 ---
