@@ -75,13 +75,11 @@ Beyond core backend logic, I explore modern software engineering practices, clou
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kafka,linux,ubuntu" alt="Tools Stack" />
-  <img src="https://img.shields.io/badge/🐊_HostGator-1F6FB2?style=for-the-badge" alt="HostGator" />
 </p>
 
 * Docker
 * Apache Kafka
 * Linux / Ubuntu Server
-* HostGator (hosting)
 
 ---
 
